@@ -1,6 +1,4 @@
-node_modules
-dist
-yarn-error*
-./*.html
-yarn.lock
-package-lock.json
+/node_modules
+npm-debug.log
+.DS_Store
+/*.env
